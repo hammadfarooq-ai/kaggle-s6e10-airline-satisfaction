@@ -1,0 +1,117 @@
+ref,fileName,date,description,status,publicScore,privateScore
+57822321,o10_E80_S20.csv,2026-10-31 01:07:00.380000,public-LB probe o10_E80_S20 (no CV),SubmissionStatus.COMPLETE,0.96225,0.96212
+57822311,o9_mean_E_S_T_M.csv,2026-10-31 01:06:45.403000,public-LB probe o9_mean_E_S_T_M (no CV),SubmissionStatus.COMPLETE,0.96224,0.96215
+57822305,o8_E_x125_vsT.csv,2026-10-31 01:06:26.777000,public-LB probe o8_E_x125_vsT (no CV),SubmissionStatus.COMPLETE,0.96225,0.96210
+57822302,o7_E_x125.csv,2026-10-31 01:06:11.657000,public-LB probe o7_E_x125 (no CV),SubmissionStatus.COMPLETE,0.96224,0.96205
+57822297,o6_E70_T30.csv,2026-10-31 01:05:57.753000,public-LB probe o6_E70_T30 (no CV),SubmissionStatus.COMPLETE,0.96225,0.96212
+57822284,o5_mean_E_S_T.csv,2026-10-31 01:05:39.517000,public-LB probe o5_mean_E_S_T (no CV),SubmissionStatus.COMPLETE,0.96224,0.96213
+57822279,o4_E50_S50.csv,2026-10-31 01:05:24.743000,public-LB probe o4_E50_S50 (no CV),SubmissionStatus.COMPLETE,0.96225,0.96212
+57822270,o3_E50_T50.csv,2026-10-31 01:05:11.117000,public-LB probe o3_E50_T50 (no CV),SubmissionStatus.COMPLETE,0.96224,0.96213
+57822260,o2_subhanjan5b.csv,2026-10-31 01:04:56.500000,public-LB probe o2_subhanjan5b (no CV),SubmissionStatus.COMPLETE,0.96224,0.96213
+57822253,o1_endgame225.csv,2026-10-31 01:04:41.407000,public-LB probe o1_endgame225 (no CV),SubmissionStatus.COMPLETE,0.96225,0.96211
+57792259,n10_tk80_ours20.csv,2026-10-30 04:17:35.023000,public-LB probe n10_tk80_ours20 (no CV),SubmissionStatus.COMPLETE,0.96222,0.96215
+57792253,n9_tk_x150.csv,2026-10-30 04:17:22.273000,public-LB probe n9_tk_x150 (no CV),SubmissionStatus.COMPLETE,0.96222,0.96203
+57792243,n8_tk_x125.csv,2026-10-30 04:17:07.550000,public-LB probe n8_tk_x125 (no CV),SubmissionStatus.COMPLETE,0.96223,0.96208
+57792238,n7_tk70_my30.csv,2026-10-30 04:16:50.920000,public-LB probe n7_tk70_my30 (no CV),SubmissionStatus.COMPLETE,0.96222,0.96216
+57792233,n6_mean_tk_my_gp.csv,2026-10-30 04:16:37.723000,public-LB probe n6_mean_tk_my_gp (no CV),SubmissionStatus.COMPLETE,0.96221,0.96219
+57792229,n5_tk50_gp50.csv,2026-10-30 04:16:23.670000,public-LB probe n5_tk50_gp50 (no CV),SubmissionStatus.COMPLETE,0.96221,0.96216
+57792225,n4_tk50_my50.csv,2026-10-30 04:16:07.050000,public-LB probe n4_tk50_my50 (no CV),SubmissionStatus.COMPLETE,0.96221,0.96218
+57792215,n3_gp217.csv,2026-10-30 04:15:49.980000,public-LB probe n3_gp217 (no CV),SubmissionStatus.COMPLETE,0.96217,0.96218
+57792210,n2_my218.csv,2026-10-30 04:15:35.580000,public-LB probe n2_my218 (no CV),SubmissionStatus.COMPLETE,0.96218,0.96221
+57792204,n1_tk223.csv,2026-10-30 04:15:18.860000,public-LB probe n1_tk223 (no CV),SubmissionStatus.COMPLETE,0.96223,0.96213
+57761835,m_q07_A106_xgb03_rmlp03.csv,2026-10-29 06:44:50.180000,public-LB probe m_q07_A106_xgb03_rmlp03 (no CV),SubmissionStatus.ERROR,,
+57761830,m_q06_A115_tpfn05_xgb05_rmlp05.csv,2026-10-29 06:44:41.963000,public-LB probe m_q06_A115_tpfn05_xgb05_rmlp05 (no CV),SubmissionStatus.COMPLETE,0.96214,0.96210
+57761818,m_q05_A113_tpfn07_xgb03_rmlp03.csv,2026-10-29 06:44:18.333000,public-LB probe m_q05_A113_tpfn07_xgb03_rmlp03 (no CV),SubmissionStatus.COMPLETE,0.96215,0.96214
+57761811,m_q03_A110_tpfn05_rmlp05.csv,2026-10-29 06:44:04.853000,public-LB probe m_q03_A110_tpfn05_rmlp05 (no CV),SubmissionStatus.COMPLETE,0.96214,0.96216
+57761800,m_q02_A110_tpfn05_xgb05.csv,2026-10-29 06:43:46.590000,public-LB probe m_q02_A110_tpfn05_xgb05 (no CV),SubmissionStatus.COMPLETE,0.96215,0.96217
+57761796,m_q01_A111_tpfn05_xgb03_rmlp03.csv,2026-10-29 06:43:33.307000,public-LB probe m_q01_A111_tpfn05_xgb03_rmlp03 (no CV),SubmissionStatus.COMPLETE,0.96215,0.96216
+57761786,m_p01_A107_tpfn_m07.csv,2026-10-29 06:43:16.647000,public-LB probe m_p01_A107_tpfn_m07 (no CV),SubmissionStatus.COMPLETE,0.96214,0.96219
+57761774,m_n08_A115_tabpfn35_m15.csv,2026-10-29 06:42:50.773000,public-LB probe m_n08_A115_tabpfn35_m15 (no CV),SubmissionStatus.COMPLETE,0.96212,0.96211
+57761766,m_G50_q0650.csv,2026-10-29 06:42:33.773000,public-LB probe m_G50_q0650 (no CV),SubmissionStatus.COMPLETE,0.96216,0.96217
+57761759,m_G50_q0150.csv,2026-10-29 06:42:15.117000,public-LB probe m_G50_q0150 (no CV),SubmissionStatus.COMPLETE,0.96216,0.96219
+57726396,k_r11_A85_tabpfn35_ownall_aysat.csv,2026-10-28 05:53:17.407000,areebbb public variant r11_A85_tabpfn35_ownall_aysat (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96209,0.96229
+57726391,k_r09_rankmean_top.csv,2026-10-28 05:53:03.160000,areebbb public variant r09_rankmean_top (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96211,0.96226
+57726384,k_r05_A90_mega.csv,2026-10-28 05:52:49.153000,areebbb public variant r05_A90_mega (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96212,0.96227
+57726372,k_r14_A95_kumolarge.csv,2026-10-28 05:52:32.857000,areebbb public variant r14_A95_kumolarge (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96211,0.96225
+57726367,k_n02_A110_tabpfn35_m10.csv,2026-10-28 05:52:17.510000,areebbb public variant n02_A110_tabpfn35_m10 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96214,0.96216
+57726354,k_n01_A105_tabpfn35_m05.csv,2026-10-28 05:51:54.897000,areebbb public variant n01_A105_tabpfn35_m05 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96214,0.96220
+57726346,k_r16_A80_tabpfn35.csv,2026-10-28 05:51:38.693000,areebbb public variant r16_A80_tabpfn35 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96202,0.96229
+57726342,k_r02_A90_tabpfn35.csv,2026-10-28 05:51:25.320000,areebbb public variant r02_A90_tabpfn35 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96209,0.96227
+57726330,k_r01_A95_tabpfn35.csv,2026-10-28 05:51:08.843000,areebbb public variant r01_A95_tabpfn35 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96211,0.96226
+57726324,k_r12_A97_tabpfn35.csv,2026-10-28 05:50:54.250000,areebbb public variant r12_A97_tabpfn35 (no CV; public-LB surface),SubmissionStatus.COMPLETE,0.96212,0.96225
+57690289,j10_mean_f1_g9_g10_i3_y276.csv,2026-10-27 05:25:17.920000,rank blend j10_mean_f1_g9_g10_i3_y276 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96214,0.96227
+57690275,j9_mean_i4_gp.csv,2026-10-27 05:24:51.143000,rank blend j9_mean_i4_gp (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96225
+57690265,j8_nh88_tab12.csv,2026-10-27 05:24:37.587000,rank blend j8_nh88_tab12 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96214,0.96228
+57690245,j7_mean_g9_g10_i3.csv,2026-10-27 05:24:06.663000,rank blend j7_mean_g9_g10_i3 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96228
+57690229,j6_i4_80_g10_20.csv,2026-10-27 05:23:29.287000,rank blend j6_i4_80_g10_20 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96227
+57690214,j5_mean_i4_y276.csv,2026-10-27 05:23:08.080000,rank blend j5_mean_i4_y276 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96225
+57690206,j4_mean_i4_i3.csv,2026-10-27 05:22:35.463000,rank blend j4_mean_i4_i3 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96228
+57690198,j3_f1_88_tab12.csv,2026-10-27 05:22:19.850000,rank blend j3_f1_88_tab12 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96228
+57690193,j2_mean_g9_g10.csv,2026-10-27 05:22:04.523000,rank blend j2_mean_g9_g10 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96228
+57689553,j1_yuv276_as_is.csv,2026-10-27 04:54:32.407000,yuvrajlamba01 '0.96276+' public file as-is (no CV; 98% the 0.96213 anchor),SubmissionStatus.COMPLETE,0.96212,0.96224
+57650795,i4_mean_f1_g9_g10.csv,2026-10-26 02:40:08.993000,rank blend i4_mean_f1_g9_g10 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96214,0.96227
+57650790,i3_nh85_tab15.csv,2026-10-26 02:39:55.147000,rank blend i3_nh85_tab15 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96229
+57650782,i2_f1_80_tab20.csv,2026-10-26 02:39:41.170000,rank blend i2_f1_80_tab20 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96211,0.96229
+57650779,i1_mean_f1_nh_g3.csv,2026-10-26 02:39:27.593000,rank blend i1_mean_f1_nh_g3 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57650427,h6_stack6_v10recipe.csv,2026-10-26 02:23:33.747000,"stack6 LR 0.8 + LGB 0.2 (CV 0.962243, same recipe as v10)",SubmissionStatus.COMPLETE,0.96185,0.96238
+57650418,h5_v10_90_qft10.csv,2026-10-26 02:23:20.877000,"v10 90 + Q-FT 10 rank blend (members have CV, blend weight not CV-chosen)",SubmissionStatus.COMPLETE,0.96183,0.96239
+57650410,h4_f1_85_qft15.csv,2026-10-26 02:23:07.053000,rank blend h4_f1_85_qft15 (no CV; public-LB probe with own Q-FT),SubmissionStatus.COMPLETE,0.96211,0.96228
+57650403,h3_f1_90_qft10.csv,2026-10-26 02:22:52.773000,rank blend h3_f1_90_qft10 (no CV; public-LB probe with own Q-FT),SubmissionStatus.COMPLETE,0.96212,0.96227
+57650397,h2_f1_95_qft05.csv,2026-10-26 02:22:39.423000,rank blend h2_f1_95_qft05 (no CV; public-LB probe with own Q-FT),SubmissionStatus.COMPLETE,0.96213,0.96225
+57650391,h1_qft2_alone.csv,2026-10-26 02:22:25.220000,"own Q-FT v2 transformer single model, OOF 0.961116 (CV)",SubmissionStatus.COMPLETE,0.96101,0.96165
+57619610,g10_f1_85_tab15.csv,2026-10-25 06:22:20.647000,rank blend g10_f1_85_tab15 (no CV; public-LB surface probe),SubmissionStatus.COMPLETE,0.96213,0.96229
+57618693,g9_f1_90_tab10.csv,2026-10-25 05:51:20.183000,rank blend g9_f1_90_tab10 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96227
+57618675,g8_f1_95_tab05.csv,2026-10-25 05:51:00.480000,rank blend g8_f1_95_tab05 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96225
+57618662,g7_nh80_e1_20.csv,2026-10-25 05:50:40.773000,rank blend g7_nh80_e1_20 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618653,g6_nh70_n213a30.csv,2026-10-25 05:50:26.413000,rank blend g6_nh70_n213a30 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618641,g5_nh70_n213d30.csv,2026-10-25 05:50:10.813000,rank blend g5_nh70_n213d30 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618637,g4_nh70_gp30.csv,2026-10-25 05:49:56.893000,rank blend g4_nh70_gp30 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618633,g3_mean6.csv,2026-10-25 05:49:42.360000,rank blend g3_mean6 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618622,g2_nh50_f1_50.csv,2026-10-25 05:49:29.700000,rank blend g2_nh50_f1_50 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57618612,g1_nina_h.csv,2026-10-25 05:49:10.920000,rank blend g1_nina_h (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57582701,f10_pillar1.csv,2026-10-24 04:45:48.810000,"vigneshalugunulla pillar1_test_base252 stack, OOF AUC 0.962238 (their CV, not ours)",SubmissionStatus.COMPLETE,0.96184,0.96238
+57582698,f9_f1_80_v10pil_20.csv,2026-10-24 04:45:34.453000,rank blend f9_f1_80_v10pil_20 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96210,0.96229
+57582691,f8_f1_90_pil_10.csv,2026-10-24 04:45:20.297000,rank blend f8_f1_90_pil_10 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96211,0.96226
+57582684,f7_v10_50_pil_50.csv,2026-10-24 04:45:07.060000,rank blend f7_v10_50_pil_50: stack v10 + vigneshalugunulla pillar1 252-stack (both CV ~0.96224; blend itself no CV),SubmissionStatus.COMPLETE,0.96184,0.96239
+57582681,f6_f1_95_v10_05.csv,2026-10-24 04:44:53.600000,rank blend f6_f1_95_v10_05 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96212,0.96225
+57582673,f5_f1_50_v10_50.csv,2026-10-24 04:44:40.253000,rank blend f5_f1_50_v10_50 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96203,0.96235
+57582667,f4_f1_70_v10_30.csv,2026-10-24 04:44:23.690000,rank blend f4_f1_70_v10_30 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96208,0.96231
+57582656,f3_f1_80_v10_20.csv,2026-10-24 04:44:10.327000,rank blend f3_f1_80_v10_20 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96210,0.96229
+57582649,f2_f1_90_v10_10.csv,2026-10-24 04:43:56.070000,rank blend f2_f1_90_v10_10 (no CV; mostly public-LB surface files),SubmissionStatus.COMPLETE,0.96211,0.96226
+57582384,f1_mean5_213.csv,2026-10-24 04:32:55.717000,rank blend f1_mean5_213: mean of five public 0.96213 files (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96213,0.96223
+57549179,e3_mean_y213_n210_d3.csv,2026-10-23 04:32:19.847000,rank blend e3_mean_y213_n210_d3 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96211,0.96224
+57549170,e2_y213_70_d3_30.csv,2026-10-23 04:32:06.513000,rank blend e2_y213_70_d3_30 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96212,0.96224
+57549162,e1_y213_50_n210_50.csv,2026-10-23 04:31:51.853000,rank blend e1_y213_50_n210_50 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96212,0.96223
+57511605,d3_rab_50_n208b_50.csv,2026-10-22 05:38:11.083000,rank blend d3_rab_50_n208b_50 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96209,0.96225
+57511597,d2_v10_05_rab_95.csv,2026-10-22 05:37:56.640000,rank blend d2_v10_05_rab_95 (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96208,0.96226
+57511587,d1_mean_s4_n208b_rab.csv,2026-10-22 05:37:38.520000,rank blend d1_mean_s4_n208b_rab (no CV; public-LB surface files),SubmissionStatus.COMPLETE,0.96208,0.96226
+57490265,c4_v10_20_s4_50_hn_30.csv,2026-10-21 16:43:31.593000,rank blend c4_v10_20_s4_50_hn_30 (no CV; public-LB surface file),SubmissionStatus.COMPLETE,0.96203,0.96233
+57490249,c3_b7_30_s4_70.csv,2026-10-21 16:43:08.360000,rank blend c3_b7_30_s4_70 (no CV; public-LB surface file),SubmissionStatus.COMPLETE,0.96204,0.96232
+57490238,c2_v10_10_s4_90.csv,2026-10-21 16:42:50.920000,rank blend c2_v10_10_s4_90 (no CV; public-LB surface file),SubmissionStatus.COMPLETE,0.96207,0.96229
+57490229,c1_v10_20_s4_80.csv,2026-10-21 16:42:32.870000,rank blend c1_v10_20_s4_80 (no CV; public-LB surface file),SubmissionStatus.COMPLETE,0.96205,0.96231
+57334295,b9_lr10_30_n190b_70.csv,2026-10-18 02:05:30.653000,rank blend b9_lr10_30_n190b_70 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96189,0.96238
+57334287,b8_v10_40_pub4_60.csv,2026-10-18 02:05:16.330000,rank blend b8_v10_40_pub4_60 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96188,0.96238
+57334281,b7_v10v8tw_30_pub4_70.csv,2026-10-18 02:05:02.483000,rank blend b7_v10v8tw_30_pub4_70 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96189,0.96238
+57334271,b6_v10_30_pub4_70.csv,2026-10-18 02:04:47.393000,rank blend b6_v10_30_pub4_70 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96188,0.96238
+57334266,b5_v9_30_n190b_70.csv,2026-10-18 02:04:32.657000,rank blend b5_v9_30_n190b_70 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96188,0.96238
+57334254,b4_v10_20_n190b_80.csv,2026-10-18 02:04:07.920000,rank blend b4_v10_20_n190b_80 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96189,0.96238
+57333395,b3_v10_v8_n190a_n190b_may.csv,2026-10-18 01:33:58.157000,rank blend b3_v10_v8_n190a_n190b_may (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96188,0.96238
+57333392,b2_v10_n190b_30_70.csv,2026-10-18 01:33:43.227000,rank blend b2_v10_n190b_30_70 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96188,0.96238
+57333390,b1_v10_n190b_50.csv,2026-10-18 01:33:30.830000,rank blend b1_v10_n190b_50 (no CV; public-LB blend),SubmissionStatus.COMPLETE,0.96187,0.96238
+57333351,submission.csv,2026-10-18 01:31:31.653000,"stack v10: 246 members (245 + tabpfn_ne4), 0.8 family-wise LR + 0.2 LGB, nested CV 0.962243/0.962243 (seeds 7/13)",SubmissionStatus.COMPLETE,0.96183,0.96238
+57189696,submission.csv,2026-10-14 17:01:06.413000,"245 pool: 0.8 family-wise LR + 0.2 LightGBM stacker, nested CV 0.962242 (seeds 7/13)",SubmissionStatus.COMPLETE,0.96184,0.96238
+57169894,submission_twin3.csv,2026-10-14 06:17:56.340000,rank mean: own 245 family-L2 stack + goodpjw2008 frozen 245 + dariushafshar 247 (no CV),SubmissionStatus.COMPLETE,0.96186,0.96238
+57169883,submission.csv,2026-10-14 06:17:43.700000,"245-member public pool, LR C=0.003 family-wise L2, nested CV 0.962229 (seed 7) / 0.962231 (seed 13)",SubmissionStatus.COMPLETE,0.96186,0.96238
+57048978,blend_f.csv,2026-10-10 17:34:07.120000,"rank blend: two own stacks + samanyu + matterhorn + taisei + lucifer, equal (no CV)",SubmissionStatus.COMPLETE,0.96181,0.96236
+57048970,blend_e.csv,2026-10-10 17:33:46.547000,rank blend: samanyu LR + taisei 50/50 (no CV),SubmissionStatus.COMPLETE,0.96178,0.96234
+57048962,blend_d.csv,2026-10-10 17:33:29.180000,"rank blend: own LR stack + samanyu LR + taisei + lucifer, equal (no CV)",SubmissionStatus.COMPLETE,0.96180,0.96236
+57048957,blend_c.csv,2026-10-10 17:33:13.507000,rank blend: 209-member LR stack + samanyu LR + top18 (no CV),SubmissionStatus.COMPLETE,0.96183,0.96237
+57048938,submission_lr_lgb20.csv,2026-10-10 17:31:54.467000,"0.8 LR + 0.2 LightGBM stacker on 209 members, nested CV 0.962187",SubmissionStatus.COMPLETE,0.96181,0.96237
+57048932,submission.csv,2026-10-10 17:31:29.163000,"LR stack, 202 public + 7 koumeimaki members (209), nested CV 0.962181",SubmissionStatus.COMPLETE,0.96181,0.96237
+57047693,blend_b.csv,2026-10-10 16:35:35.717000,"rank blend: own LR stack + samanyu LR + top18 public subs, equal weights (no CV)",SubmissionStatus.COMPLETE,0.96183,0.96237
+57047687,blend_a.csv,2026-10-10 16:35:19.430000,rank blend: 0.4 own LR stack + 0.2 each samanyu LR / matterhorn / taisei public subs (no CV),SubmissionStatus.COMPLETE,0.96181,0.96236
+57039493,submission_lr_lgb20.csv,2026-10-10 10:24:30.283000,"0.8 LR + 0.2 LightGBM stacker on 202 public OOF members, nested CV 0.962176",SubmissionStatus.COMPLETE,0.96180,0.96237
+57038137,submission.csv,2026-10-10 09:25:01.803000,"LR stack on 202 public OOF members, nested CV 0.962171",SubmissionStatus.COMPLETE,0.96182,0.96237
+56948881,submission.csv,2026-10-08 10:22:20.517000,Notebook ✈️ Flight Log S6E10 | Captains + RealMLP Stack | Version 1,SubmissionStatus.COMPLETE,0.95832,0.95931
+56947001,submission.csv,2026-10-08 09:30:07.267000,,SubmissionStatus.COMPLETE,0.96176,0.96232
+56946417,submission.csv,2026-10-08 09:14:47.207000,,SubmissionStatus.COMPLETE,0.95832,0.95931

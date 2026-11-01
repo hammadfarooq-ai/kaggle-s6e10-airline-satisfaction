@@ -1,0 +1,15 @@
+# competition / original / third-party data: not redistributable, download it (see data/README.md)
+data/*
+!data/README.md
+# large outputs: OOF / test predictions, submission files, downloaded kernel outputs
+artifacts/
+*.npy
+*.npz
+*.zip
+*.parquet
+# python / OS noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

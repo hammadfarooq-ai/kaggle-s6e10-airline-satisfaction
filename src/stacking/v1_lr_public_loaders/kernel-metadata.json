@@ -1,0 +1,43 @@
+{
+  "id": "malikhammadfarooq/s6e10-stack-public-own",
+  "title": "s6e10-stack-public-own",
+  "code_file": "stack.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["playground-series-s6e10"],
+  "dataset_sources": [
+    "abdullahsafwan333/oof-dataset",
+    "sadamtorres/ps-s6e10-airline-satisfaction-artifacts",
+    "kratosyan/s6e10-busyaprime-five-members-oof",
+    "najiama/s6e10-oof",
+    "arhancanli12/s6e10-oof-test-predictions",
+    "megayak/s6e10-oof-library",
+    "dariushafshar/s6e10-golem-oof-library",
+    "sachith7/s6e10-stack-oof-predictions",
+    "cdeotte/s6e10-tfm-oof-and-test-predictions",
+    "koumeimaki/s6e10-route-tfm-nn-oof",
+    "dmitriykolmikov/s6e10-catboost-all-categorical-oof-and-test"
+  ],
+  "kernel_sources": [
+    "megayak/s6e10-honest-oof-stack",
+    "thisray/s6e10-xgb-realmlp-catboost-lb-0-96123",
+    "hemingweb/s6e10-exp01-tabpfn35-full-context",
+    "mitudru/s6e10-analysis-first-equality-blocks-stack",
+    "samanyu1808/s6e10-tabpfn-seeds",
+    "goodpjw2008/s6e10-tabpfn-route-categories-lb-0-96160",
+    "samanyu1808/s6e10-tabpfn-route-og",
+    "wangxintong111/s6e10-catboost-rating-crosses-cv-0-96080",
+    "wangxintong111/s6e10-lightgbm-context-stats-cv-0-96065",
+    "busyaprime/s6e10-route-or-distance-both-lb-0-96169",
+    "yekenot/ps-s6-e10-realmlp-pytabkit",
+    "hermengardo/single-catboost-eda-ps6e10",
+    "kratosyan/s6e10-xgboost-realmlp-route-id-teacher",
+    "amanatar/s6e10-the-original-prior-stack-v5",
+    "kagankoral/s6e10-encodings-catboost-realmlp-lb-0-961",
+    "denpugovkin/s6e10-numeric-keys-catboost-ctr"
+  ],
+  "model_sources": []
+}

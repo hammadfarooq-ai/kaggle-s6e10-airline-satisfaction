@@ -1,0 +1,14 @@
+{
+  "id": "malikhammadfarooq/s6e10-tabicl-fe-b",
+  "title": "s6e10-tabicl-fe-b",
+  "code_file": "tfm.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["playground-series-s6e10"],
+  "dataset_sources": ["teejmahal20/airline-passenger-satisfaction"],
+  "kernel_sources": [],
+  "model_sources": []
+}
